@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM3\\Azure\\Assigment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9071C914-A55F-4A7A-862E-7EB948F2F833}|Assigment\\Assigment.csproj|d:\\sem3\\azure\\assigment\\assigment\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9071C914-A55F-4A7A-862E-7EB948F2F833}|Assigment\\Assigment.csproj|solutionrelative:assigment\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9071C914-A55F-4A7A-862E-7EB948F2F833}|Assigment\\Assigment.csproj|d:\\sem3\\azure\\assigment\\assigment\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9071C914-A55F-4A7A-862E-7EB948F2F833}|Assigment\\Assigment.csproj|solutionrelative:assigment\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9071C914-A55F-4A7A-862E-7EB948F2F833}|Assigment\\Assigment.csproj|d:\\sem3\\azure\\assigment\\assigment\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9071C914-A55F-4A7A-862E-7EB948F2F833}|Assigment\\Assigment.csproj|solutionrelative:assigment\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9071C914-A55F-4A7A-862E-7EB948F2F833}|Assigment\\Assigment.csproj|d:\\sem3\\azure\\assigment\\assigment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9071C914-A55F-4A7A-862E-7EB948F2F833}|Assigment\\Assigment.csproj|solutionrelative:assigment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\SEM3\\Azure\\Assigment\\Assigment\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Assigment\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\SEM3\\Azure\\Assigment\\Assigment\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Assigment\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:18:05.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SEM3\\Azure\\Assigment\\Assigment\\Program.cs",
+              "RelativeDocumentMoniker": "Assigment\\Program.cs",
+              "ToolTip": "D:\\SEM3\\Azure\\Assigment\\Assigment\\Program.cs",
+              "RelativeToolTip": "Assigment\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:57:38.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "D:\\SEM3\\Azure\\Assigment\\Assigment\\Models\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "Assigment\\Models\\EmployeeContext.cs",
+              "ToolTip": "D:\\SEM3\\Azure\\Assigment\\Assigment\\Models\\EmployeeContext.cs",
+              "RelativeToolTip": "Assigment\\Models\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T02:13:57.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\SEM3\\Azure\\Assigment\\Assigment\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Assigment\\Models\\Employee.cs",
+              "ToolTip": "D:\\SEM3\\Azure\\Assigment\\Assigment\\Models\\Employee.cs",
+              "RelativeToolTip": "Assigment\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T01:59:47.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
